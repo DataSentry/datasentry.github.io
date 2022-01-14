@@ -13,6 +13,10 @@ video::-webkit-media-controls-play-button {
   -webkit-appearance: none;
 }
 
+.custom-video-controls {
+  z-index: 2147483647;
+}
+
 .a-color{
     background-color: rgba(0,0,0,0.6);    
 }
