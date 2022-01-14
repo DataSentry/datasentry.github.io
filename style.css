@@ -1,9 +1,5 @@
-.controls[data-state=hidden] {
-   display:none;
-}
-
-.controls[data-state=visible] {
-   display:block;
+video::-webkit-media-controls {
+    opacity: 0;
 }
 
 .a-color{
